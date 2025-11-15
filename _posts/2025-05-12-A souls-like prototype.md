@@ -3,6 +3,7 @@ title: A souls-like prototype
 date: 2025-02-12
 categories: [Gamedev, Souls-like]
 tags: [gamedev, souls-like]     # TAG names should always be lowercase
+pin: true
 ---
 
 When I was 12, I started building a whole fantasy world with my friend. We spent days and days thinking it over, adding new things just to remove them later, in the hope of writing a story in this world. As time went on, we continued working on it, and created the skeleton of a story that would never grow flesh. The initial idea was to write together, but wa had two very different styles, and the project was a bit too ambitious. Plus, as we grew up, we found out that it was in fact very basic, very "childish". The main characters did not leave such a good impression on us, but some side characters became the new main ones. So we decided to write each our own story on the characters we loved, while continuing to improve our common world.
