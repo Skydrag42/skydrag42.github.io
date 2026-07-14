@@ -37,7 +37,9 @@ While reading the book The Name of The Wind from Patrick Rothfuss, I found out t
 
 ## SpounceFest, a bad name for an AMAZING game that could win all awards
 
+When I was in my engineering school, I became the president of the game creation club. However, before the transfer of ownership, all the members of the new term had to make a game about the one they'd replace. The former president was an hardcore fan of Celeste, so I thought I'd make my own platforming game, but in 3D, and make him the main character. The game ended up ridiculously difficult because of my own stubborness, since I didn't want to change some controls thinking "if I make them easier to use you won't get the same feeling". Rookie mistake, but people still found the game quite enjoyable, even if only 3 people out of ~30 managed to do the last 5-10 levels.
 
+![]()
 
 ## Other projects
 
