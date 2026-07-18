@@ -20,7 +20,13 @@ This is one of if not my first ever "complete" game. I say that with quotes, sin
 
 Here are some screenshots:
 
-![]()
+
+
+{% include embed/video.html src='/assets/videos/Spacemapper_editor.mp4' %}
+{% include embed/video.html src='/assets/videos/Spacemapper_editor_load.mp4' %}
+![multiplayer lobby](assets/img/spacemapper/online_lobby.png)
+{% include embed/video.html src='/assets/videos/Spacemapper.mp4' %}
+
 
 ## A puzzle game about light rays
 
@@ -33,14 +39,16 @@ You start with a laser gun, and it can reflect on surfaces like mirrors. Then, y
 
 While reading the book The Name of The Wind from Patrick Rothfuss, I found out that he had made a board game from his fantasy world come to life in the real world. I asked my grandfather to build one for me since he loved wood work, and I played a lot of games with a friend. And as you can guess, I tried to make it virtual, so that we could play online. I found out halfway that there was already an online game available, so I didn't push the project all the way, but I was still able to play some games locally, and was very proud of it at the time.
 
-![]()
+{% include embed/video.html src='/assets/videos/Tak.mp4' %}
 
 ## SpounceFest, a bad name for an AMAZING game that could win all awards
 
 When I was in my engineering school, I became the president of the game creation club. However, before the transfer of ownership, all the members of the new term had to make a game about the one they'd replace. The former president was an hardcore fan of Celeste, so I thought I'd make my own platforming game, but in 3D, and make him the main character. The game ended up ridiculously difficult because of my own stubborness, since I didn't want to change some controls thinking "if I make them easier to use you won't get the same feeling". Rookie mistake, but people still found the game quite enjoyable, even if only 3 people out of ~30 managed to do the last 5-10 levels.
 
-![]()
+![main menu](assets/img/spouncefest/spouncefest_main_menu.png)
+{% include embed/video.html src='/assets/videos/Spouncefest_full_level.mp4' %}
+{% include embed/video.html src='/assets/videos/Spouncefest_advanced.mp4' %}
 
 ## Other projects
 
-Sadly, a lot were broken to due to editor versions mismatch, missing resources and such. 
+Sadly, a lot of projects were broken to due to editor versions mismatch, missing resources and such. So I don't really have much more to show, since all that's left are some mini prototypes or barely started projects.
