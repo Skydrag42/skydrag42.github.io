@@ -3,6 +3,7 @@ title: A special render for my father
 date: 2025-10-30
 categories: [3D Modelling]
 tags: [3D modelling]     # TAG names should always be lowercase
+preview_images: /assets/img/zombie_road/zombie_road_lq.png
 ---
 
 

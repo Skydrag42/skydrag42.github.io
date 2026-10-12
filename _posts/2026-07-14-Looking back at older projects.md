@@ -4,6 +4,7 @@ date: 2026-07-14
 categories: [Gamedev]
 tags: [gamedev]     # TAG names should always be lowercase
 pin: true
+preview_images: [/assets/img/previews/race_preview.png, /assets/img/previews/level_preview.png, /assets/img/previews/lightray_preview.png, /assets/img/previews/tak_preview.png]
 ---
 
 I began gamedev at around 15, in 2018. Since then, I've made a lot of different projects, and while most of them ended up nowhere, there were a few that became playable little games I could share with my friends. I recently stumbled across a folder with some of these old projects, so I thought I'd share them here. 

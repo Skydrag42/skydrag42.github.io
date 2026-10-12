@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ '/assets/css/image-comparison.css' | relative_url }}">
+<div class="image-comparison" style="--position: 50%;">
+  <img
+    class="image-comparison__base"
+    src="{{ include.before | relative_url }}"
+    alt="{{ include.before_alt | default: 'Before comparison' | escape }}"
+  >
+  <div class="image-comparison__overlay">
+    <img src="{{ include.after | relative_url }}" alt="{{ include.after_alt | default: 'After comparison' | escape }}">
+  </div>
+  <input class="image-comparison__slider" type="range" min="0" max="100" value="50" aria-label="Compare the two images">
+  <div class="image-comparison__divider" aria-hidden="true"></div>
+</div>
+<script src="{{ '/assets/js/image-comparison.js' | relative_url }}" defer></script>
