@@ -44,3 +44,21 @@
 .col-md-5 .post-preview-grid-3 img:nth-child(3) {
   grid-column: 1 / -1;
 }
+
+.librecounter {
+  text-align: right;
+  margin-top: 1rem;
+  font-size: 0.8rem;
+  line-height: 1;
+}
+
+.librecounter img {
+  display: inline-block !important;
+  width: 1em !important;
+  height: 1em !important;
+  max-width: 1em !important;
+  max-height: 1em !important;
+  object-fit: contain;
+  margin: 0 !important;
+  vertical-align: middle;
+}
